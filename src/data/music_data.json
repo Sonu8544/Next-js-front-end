@@ -1,0 +1,55 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Music Theory",
+        "slug": "intro-music-theory",
+        "description": "Learn the basics of music theory including notes, scales, and chords.",
+        "price": 49.99,
+        "instructor": "Sarah Johnson",
+        "isFeatured": true,
+        "image": "intro-music-theory.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Intermediate Guitar Techniques",
+        "slug": "intermediate-guitar",
+        "description": "Take your guitar skills to the next level with advanced techniques and exercises.",
+        "price": 79.99,
+        "instructor": "Michael Smith",
+        "isFeatured": true,
+        "image": "intermediate-guitar.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Piano for Beginners",
+        "slug": "piano-beginners",
+        "description": "Get started on the piano with this comprehensive beginner's course.",
+        "price": 69.99,
+        "instructor": "Emily Davis",
+        "isFeatured": true,
+        "image": "piano-beginners.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Advanced Music Production",
+        "slug": "advanced-music-production",
+        "description": "Explore advanced techniques in music production including mixing and mastering.",
+        "price": 129.99,
+        "instructor": "Alex Turner",
+        "isFeatured": true,
+        "image": "advanced-music-production.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Songwriting Workshop",
+        "slug": "songwriting-workshop",
+        "description": "Unlock your creativity and learn how to write compelling songs.",
+        "price": 59.99,
+        "instructor": "Rachel Green",
+        "isFeatured": true,
+        "image": "songwriting-workshop.jpg"
+      }
+    ]
+  }
+  
