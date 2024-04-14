@@ -1,5 +1,7 @@
 export default function Home() {
   return (
-   <h1 className="text-3xl text-center" >Parent layout</h1>
+    <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
+      <h1 className="text-3xl text-center">Main Page</h1>
+    </main>
   );
 }
