@@ -1,5 +1,6 @@
 import FeatureSections from "@/components/FeatureSections";
 import HeroSection from "@/components/HeroSection";
+import LampEffect from "@/components/LampEffect";
 import StickyScroll from "@/components/StickyScroll";
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
       <HeroSection />
       <FeatureSections />
       <StickyScroll />
+      <LampEffect />
     </main>
   );
 }
