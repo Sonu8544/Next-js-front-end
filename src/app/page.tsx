@@ -2,6 +2,7 @@ import FeatureSections from "@/components/FeatureSections";
 import HeroSection from "@/components/HeroSection";
 import LampEffect from "@/components/LampEffect";
 import StickyScroll from "@/components/StickyScroll";
+import TestomonialCard from "@/components/TestomonialCard";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <FeatureSections />
       <StickyScroll />
       <LampEffect />
+      <TestomonialCard />
     </main>
   );
 }
