@@ -1,3 +1,4 @@
+import CardHoverEffectWrapper from "@/components/CardHoverEffect";
 import FeatureSections from "@/components/FeatureSections";
 import HeroSection from "@/components/HeroSection";
 import LampEffect from "@/components/LampEffect";
@@ -12,6 +13,7 @@ export default function Home() {
       <StickyScroll />
       <LampEffect />
       <TestomonialCard />
+      <CardHoverEffectWrapper />
     </main>
   );
 }
