@@ -11,9 +11,9 @@ export default function Home() {
       <HeroSection />
       <FeatureSections />
       <StickyScroll />
-      <LampEffect />
       <TestomonialCard />
       <CardHoverEffectWrapper />
+      <LampEffect />
     </main>
   );
 }
